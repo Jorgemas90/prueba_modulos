@@ -1,0 +1,29 @@
+{
+  "name": "node_03",
+  "version": "1.0.0",
+  "description": "Prueba de Modulos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jorgemas90/prueba_modulos.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Jorge Mas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jorgemas90/prueba_modulos/issues"
+  },
+  "homepage": "https://github.com/Jorgemas90/prueba_modulos#readme",
+  "dependencies": {
+    "@colors/colors": "^1.6.0"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0"
+  }
+}
